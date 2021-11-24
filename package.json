@@ -1,7 +1,7 @@
 {
   "name": "AccountBalances",
   "version": "1.0.0",
-  "description": "tutorials-account-balances by",
+  "description": "tutorials-account-balances",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
